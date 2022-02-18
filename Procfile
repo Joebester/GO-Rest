@@ -1,1 +1,1 @@
-web: Go-Rest
+web: ./bin/Go-Rest
